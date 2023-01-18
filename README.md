@@ -2,6 +2,8 @@
 
 ## Overview
 
+Insert your project's details (What?, Why?).
+
 ## Software Design
 
 ### Requirement
@@ -20,3 +22,5 @@
 [Click to view Tech Stack Details](https://github.com/lebrancconvas/Software-Project-Template/blob/main/Docs/TechStack.md)
 
 ## Installation
+
+Give the details about how to install this project.
