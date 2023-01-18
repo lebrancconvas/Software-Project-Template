@@ -10,7 +10,7 @@ Insert your project's details (What?, Why?).
 
 [Click to view Requirement Details](https://github.com/lebrancconvas/Software-Project-Template/blob/main/Docs/Requirement.md)
 
-### Diagram [Using PlantUML to generate Diagram](https://plantuml.com/)
+### Diagram [[Using PlantUML to generate Diagram]](https://plantuml.com/)
 
 - Use Case Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/UseCase)
 - Entity-Relationship Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/ER)
