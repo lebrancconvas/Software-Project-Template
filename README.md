@@ -25,6 +25,10 @@ Insert your project's details (What?, Why?).
 
 Give the details about how to install this project.
 
+## How to Use / Manual
+
+Give the details about how to work or use this project.
+
 ## License
 
 Give the detail about Project's License.
