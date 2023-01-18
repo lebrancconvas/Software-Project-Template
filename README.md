@@ -24,3 +24,7 @@ Insert your project's details (What?, Why?).
 ## Installation
 
 Give the details about how to install this project.
+
+## License
+
+Give the detail about Project's License.
