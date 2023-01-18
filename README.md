@@ -10,10 +10,10 @@
 
 ### Diagram
 
-- Use Case Diagram
-- Entity-Relationship Diagram
-- Sequence Diagram
-- Activity Diagram
+- Use Case Diagram [View](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/UseCase)
+- Entity-Relationship Diagram [View](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/ER)
+- Sequence Diagram [View](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/Sequence)
+- Activity Diagram [View](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/Activity)
 
 ### Tech Stack
 
